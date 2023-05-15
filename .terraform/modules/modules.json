@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"randomcustom","Source":"git::https://github.com/deep1993nov/Terraformtest.git?ref=1.0.0","Dir":".terraform/modules/randomcustom"}]}
